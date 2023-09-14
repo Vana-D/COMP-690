@@ -1,2 +1,2 @@
-# COMP-690
+# COMP-690 Assignment 1
 Full Stack - JavaScript
