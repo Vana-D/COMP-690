@@ -1,6 +1,6 @@
 # Full Stack - JavaScript COMP-690 Assignment 01  
 
-## Excerises
+## Exercises
 
 ### Question 1
 Convert the following highlighted identifiers to Camel Case notation:
